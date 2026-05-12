@@ -1,119 +1,191 @@
-# Casino Game | Slot Game | Online Casino | Gambling
+# 🎰 Casino Game Gallery
 
-> **Repository notice:** This GitHub version is **not** a complete, turnkey-ready release-it is in private repo. If you want a **fully turnkey website**, contact us on **[Telegram](https://t.me/igamezgamble)**. This product is **for sale** (commercial offering).
+A high-performance, real-time multiplayer casino gaming platform engineered for scalability, extensibility, and modern gaming experiences.
 
-[![Telegram](https://img.shields.io/badge/Telegram-Contact%20Us-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igamezgamble)
+This repository showcases the architecture and capabilities of our gaming ecosystem, including slot machines, arcade systems, fishing games, and customizable multiplayer game engines.
 
-**Real-Time Multiplayer • Scalable Architecture**
+> ⚠️ **Important Notice**  
+> This GitHub repository is a **private/commercial version preview** and is **not a complete turnkey release**.  
+> If you are looking for a **fully deployable white-label casino platform**, custom integrations, or enterprise licensing, contact us directly via Telegram.
 
-[![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?style=flat-square&logo=laravel)](https://laravel.com)
-[![Node.js](https://img.shields.io/badge/Node.js-14+-339933?style=flat-square&logo=node.js)](https://nodejs.org)
-[![WebSocket](https://img.shields.io/badge/WebSocket-Real--Time-010101?style=flat-square&logo=socket.io)](https://websocket.org)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=flat-square&logo=mysql)](https://mysql.com)
-[![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis)](https://redis.io)
+👉 **Commercial Inquiries:**  
+**Telegram:** @microRustyme
 
-<div align="center">
-    <img width="1894" height="951" alt="image" src="https://github.com/user-attachments/assets/9f9c44fd-1fa0-485c-8f20-50c160238195" />
-    <img width="1894" height="927" alt="image" src="https://github.com/user-attachments/assets/fb99290f-312f-44ef-a846-2882ac2aa797" />
-    <p><em>Beautiful and intuitive user interface with game library, easy navigation, and modern design</em></p>
-</div>
-
-
-<div align="center">
-    <img width="1898" height="934" alt="image" src="https://github.com/user-attachments/assets/ab9fd462-ba56-4895-9d93-5feffe2aad48" />
-</div>
-
-
-
-## 🎮 **Supported Game Types**
-
-### **1. Slot Games** 🎰
-- Classic 3-reel and 5-reel slots
-- Multiple paylines and bet levels
-- Free spins, bonus rounds, and multipliers
-- Gamble features
-- Progressive jackpots
-
-<div align="center">
-    <img width="1893" height="1059" alt="image" src="https://github.com/user-attachments/assets/cdf1bd8c-a766-4541-a754-8c5c9efd2c22" />
-  <p><em>Premium slot games with stunning graphics and exciting features</em></p>
-</div>
-
-#### **Slot Game Gallery**
-
-<div align="center">
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_1.png" alt="Slot game" width="300" /></td>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_2.png" alt="Slot game" width="300" /></td>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_3.png" alt="Slot game" width="300" /></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_4.png" alt="Slot game" width="300" /></td>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_5.png" alt="Slot game" width="300" /></td>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_9.png" alt="Slot game" width="300" /></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_16.png" alt="Slot game" width="300" /></td>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_17.png" alt="Slot game" width="300" /></td>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_18.png" alt="Slot game" width="300" /></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_19.png" alt="Slot game" width="300" /></td>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_20.png" alt="Slot game" width="300" /></td>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_21.png" alt="Slot game" width="300" /></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_22.png" alt="Slot game" width="300" /></td>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_31.png" alt="Slot game" width="300" /></td>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_32.png" alt="Slot game" width="300" /></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_33.png" alt="Slot game" width="300" /></td>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_34.png" alt="Slot game" width="300" /></td>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_35.png" alt="Slot game" width="300" /></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_36.png" alt="Slot game" width="300" /></td>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_37.png" alt="Slot game" width="300" /></td>
-      <td align="center" valign="top"><img src="assets/images/Screenshot_38.png" alt="Slot game" width="300" /></td>
-    </tr>
-  </tbody>
-</table>
-<p><em>Premium slot games with stunning graphics and exciting features.</em></p>
-</div>
-
-### **2. Arcade Games** 🕹️
-- Action-packed arcade experiences
-- Skill-based gameplay
-- Tournament support
-- Leaderboards and achievements
-
-<!-- Add arcade game screenshot here -->
-<!-- <div align="center">
-  <img src="docs/images/games/arcade-game.png" alt="Arcade Game" width="800">
-</div> -->
-
-### **3. Fishing Games** 🎣
-- Multiplayer fishing game
-- Real-time multiplayer rooms (up to 6 players)
-- Dynamic fish spawning with scripts
-- Boss fish and special events
-- Auto-fire and manual shooting modes
-- Tide system for dynamic gameplay
-
-<div align="center">
-    <img width="1681" height="939" alt="fishing_game" src="https://github.com/user-attachments/assets/b7596ffb-111d-482a-b6c3-55dd81afa33b" />
-
-  <p><em>Premium multiplayer fishing game with real-time action, boss fish, and exciting gameplay features</em></p>
-</div>
-
-### **4. Custom Games** 🎲
-- Easy integration for new game types
-- Flexible game room system
-- Customizable game logic
-- Plugin architecture
+[screen-capture (1).webm](https://github.com/user-attachments/assets/407048ec-7016-4bf6-b108-7bec7960de9f)
+[screen-capture (2).webm](https://github.com/user-attachments/assets/a5d20b11-5d9f-4cb8-8634-e248e17a6ea4)
+[screen-capture (3).webm](https://github.com/user-attachments/assets/2a35a477-e35a-4661-8904-10b779a52805)
 
 ---
 
+# 🚀 Platform Highlights
+
+- Real-time multiplayer architecture
+- High-performance WebSocket networking
+- Horizontally scalable backend services
+- Modular plugin-based game engine
+- Custom room & matchmaking systems
+- Event-driven gameplay architecture
+- Cross-platform deployment support
+- Enterprise-ready infrastructure design
+- Easy integration for custom casino games
+- Optimized for high concurrency environments
+
+---
+
+# 🎮 Supported Game Categories
+
+## 🎰 1. Slot Games
+
+Modern slot systems with advanced gameplay mechanics and scalable backend logic.
+
+### Features
+- Classic 3-reel & modern 5-reel slot engines
+- Multiple paylines and dynamic bet systems
+- Wilds, scatters, and multiplier mechanics
+- Bonus rounds and free spin systems
+- Gamble / double-or-nothing features
+- Progressive jackpot support
+- RTP and volatility configuration
+- Animation & effect management
+- Auto-spin functionality
+- Mobile-friendly gameplay support
+
+### Use Cases
+- Online casinos
+- Crypto casino platforms
+- Sweepstakes gaming
+- White-label gaming operators
+
+---
+
+## 🕹️ 2. Arcade Games
+
+Fast-paced multiplayer arcade systems built for engagement and competitive gameplay.
+
+### Features
+- Real-time action gameplay
+- Tournament systems
+- Matchmaking and lobby services
+- Achievement systems
+- Player ranking & leaderboards
+- Session synchronization
+- Anti-cheat architecture
+- Reward & progression systems
+
+### Examples
+- Crash-style games
+- Reflex-based arcade systems
+- Competitive multiplayer modes
+- Seasonal events and tournaments
+
+---
+
+## 🎣 3. Fishing Games
+
+Highly interactive multiplayer fishing game infrastructure inspired by modern casino fishing platforms.
+
+### Features
+- Real-time multiplayer rooms
+- Up to 6 concurrent players per room
+- Dynamic fish spawning engine
+- Script-driven AI fish behavior
+- Boss fish and rare event systems
+- Weapon upgrade mechanics
+- Auto-fire & manual targeting modes
+- Tide and environmental systems
+- Reward balancing configuration
+- Live event orchestration
+
+### Multiplayer Capabilities
+- Low-latency synchronization
+- Room state replication
+- Real-time projectile systems
+- Shared event broadcasting
+- Distributed game session management
+
+---
+
+## 🎲 4. Custom Game Framework
+
+Flexible architecture allowing rapid integration of new casino or multiplayer game types.
+
+### Features
+- Plugin-based architecture
+- Modular game room system
+- Custom event pipelines
+- Independent game lifecycle management
+- Extensible API structure
+- Shared authentication & wallet systems
+- Custom payout logic integration
+- Rapid game deployment support
+
+---
+
+# 🏗️ Architecture Overview
+
+The platform is designed using scalable multiplayer infrastructure patterns suitable for production-grade gaming environments.
+
+### Core Components
+- Real-time game server
+- WebSocket gateway
+- Matchmaking service
+- Session manager
+- Game state synchronization layer
+- Reward & payout engine
+- Analytics & telemetry services
+- Admin dashboard support
+- Database abstraction layer
+
+### Scalability
+- Horizontal service scaling
+- Distributed room orchestration
+- Load-balanced networking
+- Event queue architecture
+- Optimized memory management
+- High concurrent user support
+
+---
+
+# 🔥 Key Technical Advantages
+
+## Real-Time Networking
+Built for low-latency multiplayer interactions using optimized socket communication and event synchronization.
+
+## Modular Infrastructure
+Each game operates independently while sharing a common networking, authentication, and economy layer.
+
+## Developer-Friendly Design
+Clean architecture principles make it easy to:
+- Add new games
+- Customize mechanics
+- Integrate external systems
+- Scale services independently
+
+## Production-Oriented
+Engineered with commercial deployment considerations:
+- Fault tolerance
+- Service isolation
+- Monitoring support
+- Deployment flexibility
+- Security-focused architecture
+
+---
+
+# 📦 Potential Integrations
+
+- Crypto wallet integration
+- Fiat payment gateways
+- Token reward systems
+- NFT utilities
+- VIP & loyalty systems
+- Affiliate systems
+- Admin analytics dashboards
+- LiveOps event systems
+
+---
+
+# ⚖️ Disclaimer
+
+This repository is provided for demonstration and commercial presentation purposes only. Redistribution, resale, or unauthorized commercial usage is prohibited without explicit permission from the owner.
+
+All trademarks, game concepts, and related intellectual property belong to their respective owners.
